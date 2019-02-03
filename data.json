@@ -1,0 +1,18 @@
+{
+    "permanent_messages": [
+        {
+            "id": "",
+            "channel": "",
+            "refresh": true,
+            "embed": {
+                "exists": true,
+                "author": "",
+                "color": "",
+                "desc": "",
+                "img": "",
+                "title": ""
+            },
+            "content": ""
+        }
+    ]
+}
